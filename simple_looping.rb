@@ -3,7 +3,7 @@
 count = 0
  phrase = "Welcome to Flatiron School's Web Development Course!"
 def loop_iterator(number_of_times)
-  loop do 
+  loops do 
     puts phrase
       break if number_of_times >= 7
       count += 1
